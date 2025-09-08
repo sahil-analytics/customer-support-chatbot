@@ -26,6 +26,12 @@ The chatbot handles user queries, provides instant responses from a knowledge ba
 
 ---
 
+## 🖼Dashboard Preview
+Here is a dashboard of Generative AI Chatbot for Customer Support project:
+
+![Dashboard Preview](https://github.com/sahil-analytics/customer-support-chatbot/blob/main/screenshots/Ai_Dashboard.png)
+
+---
 ## **Tech Stack & Tools**
 
 - **Programming Language:** Python 3.11
